@@ -177,4 +177,26 @@ sudo pacman -S nvidia nvidia-utils
 sudo pacman -S nvidia-prime
 ```
 
+---
 
+
+ ##  Installing Spotify:
+   ```bash 
+   sudo snap install spotify
+   ```   
+   
+ ---
+
+   ## Installing Discord:  
+
+   ```bash 
+   sudo pacman -S discord
+   ```
+
+---
+
+ ## Installing Node.Js:
+   ```bash 
+   pacman -S nodejs
+   ```   
+   
