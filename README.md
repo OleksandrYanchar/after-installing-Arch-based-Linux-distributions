@@ -200,3 +200,9 @@ sudo pacman -S nvidia-prime
    pacman -S nodejs
    ```   
    
+   ---
+
+ ## Installing Postman:
+   ```bash 
+yay -S postman-bin
+   ```  
